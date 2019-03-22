@@ -16,4 +16,4 @@ class User {
 }
 
 let jaden = new User('jaden', 'ready player one');
-billy.favoriteFilmMatches(['ready player one', 'steven spielberg']);
+jaden.favoriteFilmMatches(['ready player one', 'steven spielberg']);
